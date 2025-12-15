@@ -1,14 +1,22 @@
 # Robo-Racer
 Building a RC racing robot capable of navigating sand pits, ramps and a lot more fun stuff.
 
+
+https://github.com/user-attachments/assets/db7c474e-a4ad-4f39-b993-d5889bbc2405
+
+
 ## Electronics Required
 1. Electrocraze 20D dual channel ESC (1)
 2. Flysky FSi6X Transmitter and receiver (1)
 3. Johnson DC motors 1000 RPM 12V (4)
 4. Lipo Battery 3S 2200mAh
 5. XT-60 connector for battery
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/18b38ca5-3afb-47c9-80d9-05916bc7e849" />
+
 ## Chassis Design
 The chassis design for the model can be found in the CAD folder along with sliced files for 3D printing.
+<img width="646" height="411" alt="image" src="https://github.com/user-attachments/assets/6a7fe7be-9a88-4e53-b6fb-91da495c0db2" />
+
 ## Assembly Instructions
 1. Fit the 4 motors into the chassis.
 2. Solder the front left and rear left motor terminals together as one and connect it to the M1A and M1B terminals of the ESC (one for each terminal of the motor)
