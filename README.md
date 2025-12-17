@@ -4,6 +4,8 @@ Building a RC racing robot capable of navigating sand pits, ramps and a lot more
 
 https://github.com/user-attachments/assets/db7c474e-a4ad-4f39-b993-d5889bbc2405
 
+### NO CODE NEEDED FOR THIS ROBOT
+
 
 ## Electronics Required
 1. Electrocraze 20D dual channel ESC (1 (Controls the bot without code)
