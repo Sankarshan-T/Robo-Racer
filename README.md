@@ -6,11 +6,11 @@ https://github.com/user-attachments/assets/db7c474e-a4ad-4f39-b993-d5889bbc2405
 
 
 ## Electronics Required
-1. Electrocraze 20D dual channel ESC (1)
-2. Flysky FSi6X Transmitter and receiver (1)
-3. Johnson DC motors 1000 RPM 12V (4)
-4. Lipo Battery 3S 2200mAh
-5. XT-60 connector for battery
+1. Electrocraze 20D dual channel ESC (1 (Controls the bot without code)
+2. Flysky FSi6X Transmitter and receiver (1) (A remote control for the bot)
+3. Johnson DC motors 1000 RPM 12V (4) (motors for the bot  to  move)
+4. Lipo Battery 3S 2200mAh  (A battery to power the motors)
+5. XT-60 connector for battery (A connector for the battery)
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/18b38ca5-3afb-47c9-80d9-05916bc7e849" />
 
 ## Chassis Design
