@@ -49,6 +49,8 @@ The chassis design for the model can be found in the CAD folder along with slice
 | Chassis 3D printed | 1 | 300inr | 300inr | No Link |
 | Solder | 1 | 80inr | 80inr | [Lnk for Solder](https://www.amazon.in/7Q7-Electronic-Soldering-50Grams-Solder-Wire/dp/B07ZLR38MB) |
 | Tape | 1 | 15inr | 15inr | [Lnk for Tape](https://blinkit.com/prn/steelgrip-pvc-electrical-insulation-tape/prid/425578) |
+| ---- | - | Total: | 11715inr | ---- |
+
 
 
 
