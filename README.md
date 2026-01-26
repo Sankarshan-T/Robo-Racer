@@ -44,6 +44,16 @@ The chassis design for the model can be found in the CAD folder along with slice
 | Johnson Motors 12V 1000rpm | 4 | 280inr | 1120inr | [Link for Motors](https://ifuturetech.org/product/12v-1000-rpm-johnson-geared-dc-motor-grade-b/) |
 | electocraze 20D ESC | 1 | 3200inr | 3200inr | [Link for ESC](https://www.technobotix.in/products/electrocraze-20d-bd-dual-channel-20amp-brushed-motor-controller/1781252000002857099) |
 | Wheels | 4 | 150inr | 600inr | [Link for wheels](https://robu.in/product/65mm-robot-smart-car-12-rim-wheel-blue/?gad_source=1&gad_campaignid=20387462343&gclid=Cj0KCQiAoZDJBhC0ARIsAERP-F8owiACCQeQ3FbB1iGXmrpBKnK6DMTh9ymne9Y4ugNYVg9Mwty8RioaAnU_EALw_wcB) |
+| Flysky FSi6X + receiver 6ch | 1 | 4900inr | 4900inr | [Link for transmitter + reciever](https://www.flyrobo.in/flysky-fs-i6x-2.4ghz-6ch-afhds-2a-rc-transmitter-with-fs-ia10b-2.4ghz-10ch-receiver) |
+| LiPo battery 3s 2200mah	 | 1 | 1500inr | 1500inr | [Link for battery](https://robu.in/product/orange-2200mah-3s-30c60c-lithium-polymer-battery-pack-lipo/) |
+| Chassis 3D printed | 1 | 300inr | 300inr | No Link |
+| Solder | 1 | 80inr | 80inr | [Lnk for Solder](https://www.amazon.in/7Q7-Electronic-Soldering-50Grams-Solder-Wire/dp/B07ZLR38MB) |
+| Tape | 1 | 15inr | 15inr | [Lnk for Tape](https://blinkit.com/prn/steelgrip-pvc-electrical-insulation-tape/prid/425578) |
+
+
+
+
+
 
 
 
