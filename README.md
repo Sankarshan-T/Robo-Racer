@@ -1,5 +1,6 @@
 # Robo-Racer
 Building a RC racing robot capable of navigating sand pits, ramps and a lot more fun stuff.
+This project was made because I was always fong of rc cars and I wanted to try something new.
 
 
 https://github.com/user-attachments/assets/db7c474e-a4ad-4f39-b993-d5889bbc2405
