@@ -47,8 +47,8 @@ The chassis design for the model can be found in the CAD folder along with slice
 | Flysky FSi6X + receiver 6ch | 1 | 4900inr | 4900inr | [Link for transmitter + reciever](https://www.flyrobo.in/flysky-fs-i6x-2.4ghz-6ch-afhds-2a-rc-transmitter-with-fs-ia10b-2.4ghz-10ch-receiver) |
 | LiPo battery 3s 2200mah	 | 1 | 1500inr | 1500inr | [Link for battery](https://robu.in/product/orange-2200mah-3s-30c60c-lithium-polymer-battery-pack-lipo/) |
 | Chassis 3D printed | 1 | 300inr | 300inr | No Link |
-| Solder | 1 | 80inr | 80inr | [Lnk for Solder](https://www.amazon.in/7Q7-Electronic-Soldering-50Grams-Solder-Wire/dp/B07ZLR38MB) |
-| Tape | 1 | 15inr | 15inr | [Lnk for Tape](https://blinkit.com/prn/steelgrip-pvc-electrical-insulation-tape/prid/425578) |
+| Solder | 1 | 80inr | 80inr | [Link for Solder](https://www.amazon.in/7Q7-Electronic-Soldering-50Grams-Solder-Wire/dp/B07ZLR38MB) |
+| Tape | 1 | 15inr | 15inr | [Link for Tape](https://blinkit.com/prn/steelgrip-pvc-electrical-insulation-tape/prid/425578) |
 | ---- | - | Total: | 11715inr | ---- |
 
 
