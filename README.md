@@ -31,3 +31,25 @@ The chassis design for the model can be found in the CAD folder along with slice
 1. Go to setup->mixes->mix 1, set channel 2 as master and ch4 as slave, -100% for both positive and negative mix.
 2. Go to setup->mixes->mix2, set ch4 as master and ch2 as slave, +100% for both.
 3. Go to setup->reverse, and set ch4 for reverse on, rest off.
+
+## Images
+### 3D Model <img width="646" height="411" alt="image" src="https://github.com/user-attachments/assets/6a7fe7be-9a88-4e53-b6fb-91da495c0db2" /> 
+### Wiring diagram <img width="889" height="668" alt="image" src="https://github.com/user-attachments/assets/2b86597b-ab33-47e9-8a4e-497790f89e1c" />
+
+## BOM, With link to BOM.csv
+# https://github.com/Sankarshan-T/Robo-Racer/blob/main/BOM.csv
+
+| Component | Qty |	Price per item | Total Cost | Link |
+| --------- | --- | -------------- | ---------- | ---- |
+| Johnson Motors 12V 1000rpm | 4 | 280inr | 1120inr | [Link for Motors](https://ifuturetech.org/product/12v-1000-rpm-johnson-geared-dc-motor-grade-b/) |
+| electocraze 20D ESC | 1 | 3200inr | 3200inr | [Link for ESC](https://www.technobotix.in/products/electrocraze-20d-bd-dual-channel-20amp-brushed-motor-controller/1781252000002857099) |
+| Wheels | 4 | 150inr | 600inr | [Link for wheels](https://robu.in/product/65mm-robot-smart-car-12-rim-wheel-blue/?gad_source=1&gad_campaignid=20387462343&gclid=Cj0KCQiAoZDJBhC0ARIsAERP-F8owiACCQeQ3FbB1iGXmrpBKnK6DMTh9ymne9Y4ugNYVg9Mwty8RioaAnU_EALw_wcB) |
+
+
+
+
+
+
+
+
+
